@@ -1,0 +1,50 @@
+2022-05-21T10:33:34+00:00 CRITICAL syntax error, unexpected token "&" in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 104
+
+2022-05-21T10:33:35+00:00 CRITICAL syntax error, unexpected token "&" in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 104
+
+2022-05-21T10:52:32+00:00 CRITICAL Uncaught Error: Class "my_nav_walker" not found in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php:89
+Stack trace:
+#0 C:\MAMP\htdocs\digifyspace\wp-settings.php(555): include()
+#1 C:\MAMP\htdocs\digifyspace\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\digifyspace\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\digifyspace\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\digifyspace\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T10:54:35+00:00 CRITICAL Uncaught Error: Class "my_nav_walker" not found in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php:89
+Stack trace:
+#0 C:\MAMP\htdocs\digifyspace\wp-settings.php(555): include()
+#1 C:\MAMP\htdocs\digifyspace\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\digifyspace\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\digifyspace\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\digifyspace\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T10:54:36+00:00 CRITICAL Uncaught Error: Class "my_nav_walker" not found in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php:89
+Stack trace:
+#0 C:\MAMP\htdocs\digifyspace\wp-settings.php(555): include()
+#1 C:\MAMP\htdocs\digifyspace\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\digifyspace\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\digifyspace\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\digifyspace\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:52:01+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:52:02+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:52:29+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:52:30+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:53:11+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:53:12+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:54:48+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
+2022-05-21T11:54:49+00:00 CRITICAL Cannot declare class Walker_Nav_Menu, because the name is already in use in C:\MAMP\htdocs\digifyspace\wp-content\themes\digifyspace\functions.php on line 89
+
